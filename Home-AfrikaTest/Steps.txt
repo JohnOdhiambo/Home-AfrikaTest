@@ -1,0 +1,8 @@
+--C:\xampp\htdocs\Home-AfrikaTest
+--Open XAMPP server
+--Start the Apache and MySQL (Counter check the port number with the one configured for the project)
+--Click on the on the Apache tab from the XAMPP Server UI
+--It will open local host on the browser
+--Click on phpMyAdmin tab you'll be redirected to http://localhost/phpmyadmin/
+  where the Databases are
+--Type the following url http://localhost/Home-AfrikaTest/login.php to run the application
